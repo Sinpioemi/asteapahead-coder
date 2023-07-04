@@ -9,7 +9,7 @@
     width: 100%;
     height: 100vh;
     grid-template: repeat(3, 1fr) / 200px 1fr 200px;
-    grid-template-areas: 
+    grid-template-areas:
     "header header header"
     "main main main"
     "footer footer footer"
@@ -27,6 +27,6 @@
 }
 
 .social-media{
-    grid-area: social-media;
+    grid-area: footer;
     background-color: black;
 }
