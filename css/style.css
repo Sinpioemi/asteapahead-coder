@@ -17,13 +17,16 @@
 }
 
 .header{
+    grid-area: header;
     background-color: white;
     }
 
 .main{
+    grid-area: main;
     background-color: white;
 }
 
 .social-media{
+    grid-area: social-media;
     background-color: black;
 }
