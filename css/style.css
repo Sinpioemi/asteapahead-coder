@@ -16,16 +16,16 @@
     ;
 }
 
-.header{
+header{
     grid-area: header;
     background-color: white;
     }
 
-.main{
+main{
     grid-area: main;
     background-color: white;
 }
 
-.footer{
+footer{
     grid-area: footer;
 }
