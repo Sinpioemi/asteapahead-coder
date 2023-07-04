@@ -12,6 +12,10 @@
 
 .header{
     background-color: white;
+    @font-face {
+        font-family: sen;
+        src: url();
+    }
     }
 
 .main{
